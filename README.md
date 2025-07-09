@@ -6,21 +6,10 @@ This repository focuses on dynamic modeling using AnyLogic to analyze the comple
 
 Kidney transplantation is a critical intervention for patients with chronic renal failure, but limited donor availability leads to long waiting lists. This project aims to understand and manage the dynamics of these waiting lists and the impact of various factors on transplant outcomes. We developed two dynamic models in AnyLogic to achieve this:
 
-1. **Patient Flow Model**: This model analyzes changes in the waiting list by tracking patient transitions between different states, such as active waiting, unsuitability, and post-transplant recovery [1].
+1. **Patient Flow Model**: This model analyzes changes in the waiting list by tracking patient transitions between different states, such as active waiting, unsuitability, and post-transplant recovery .
 
-2. **Donor and Transplant Impact Model**: This model assesses the influence of the number of donors and the number of transplants performed on the length of the waiting list [1]. The mathematical representation for the change in waiting list length (\(\Delta L\)) is given by:
-
-   \[
-   \Delta L = \beta \, dD - \gamma \, dT
-   \]
-
-   where:  
-   - \(L\) is the change in waiting list length  
-   - \(D\) represents the change in the number of donors  
-   - \(T\) represents the change in the number of transplants  
-   - \(\beta\) is the rate of change in the waiting list with respect to the number of donors  
-   - \(\gamma\) is the rate of reduction in the waiting list with respect to the number of transplants
-
+2. **Donor and Transplant Impact Model**: This model assesses the influence of the number of donors and the number of transplants performed on the length of the waiting list
+   
 Both models are based on mathematical equations and historical data, with simulation results presented through generated graphs [1].
 
 ## Key Features and Findings
@@ -30,10 +19,11 @@ Both models are based on mathematical equations and historical data, with simula
 
 - **Model 2: Donor and Transplant Influence**  
   Quantifies the impact of donor availability and transplant volume on waiting list dynamics.  
+
   Simulation results indicate that:
-  - The number of donors is a crucial factor in managing the kidney transplant waiting list [1].
-  - An increased number of available organs leads to more successful transplants and a reduction in the waiting list [1].
-  - The number of transplanted patients continuously increases, indicating ongoing transplant activities and successful recipients [1].
+  - The number of donors is a crucial factor in managing the kidney transplant waiting list.
+  - An increased number of available organs leads to more successful transplants and a reduction in the waiting list.
+  - The number of transplanted patients continuously increases, indicating ongoing transplant activities and successful recipients.
 
 ## AnyLogic Model Files
 
@@ -53,8 +43,7 @@ To open and run the models:
 
 ## Conclusion
 
-Simulation results underscore the critical role of donor numbers in effectively managing kidney transplant waiting lists. Higher organ availability could significantly reduce waiting times and improve patient outcomes. Future work may explore additional factors such as patient health deterioration on the list and impacts of different organ allocation policies.
-
+Simulation results underscore the critical role of donor numbers in effectively managing kidney transplant waiting lists. Greater organ availability could significantly reduce waiting times and improve patient outcomes. Through this research, we aim to encourage healthy individuals to consider donating one kidney in cases where they are a suitable match and it is crucial.
 ---
 
 **Authors**: David Blazheski, Teodora Trajkova, Ivana Kerkez  
