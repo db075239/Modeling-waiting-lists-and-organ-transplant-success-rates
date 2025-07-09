@@ -1,7 +1,7 @@
 # Modeling Waiting Lists and Organ Transplant Success Rates
 
 This repository focuses on dynamic modeling using AnyLogic to analyze the complexities of kidney transplant waiting lists and the factors influencing transplant success rates in Europe.
-
+---
 ## Project Overview
 
 Kidney transplantation is a critical intervention for patients with chronic renal failure, but limited donor availability leads to long waiting lists. This project aims to understand and manage the dynamics of these waiting lists and the impact of various factors on transplant outcomes. We developed two dynamic models in AnyLogic to achieve this:
@@ -24,7 +24,7 @@ Both models are based on mathematical equations and historical data, with simula
   - The number of donors is a crucial factor in managing the kidney transplant waiting list.
   - An increased number of available organs leads to more successful transplants and a reduction in the waiting list.
   - The number of transplanted patients continuously increases, indicating ongoing transplant activities and successful recipients.
-
+---
 ## AnyLogic Model Files
 
 *(Placeholder: Your AnyLogic model files will be placed here once they are available.)*  
@@ -40,10 +40,11 @@ To open and run the models:
 3. **Open AnyLogic**: Launch AnyLogic.  
 4. **Open Project**: Navigate to `File > Open`, then select the `.alp` file(s) in the cloned directory.  
 5. **Run Simulation**: Click the green "Run" button in the toolbar to start the simulation.
-
+---
 ## Conclusion
 
 Simulation results underscore the critical role of donor numbers in effectively managing kidney transplant waiting lists. Greater organ availability could significantly reduce waiting times and improve patient outcomes. Through this research, we aim to encourage healthy individuals to consider donating one kidney in cases where they are a suitable match and it is crucial.
+
 ---
 
 **Authors**: David Blazheski, Teodora Trajkova, Ivana Kerkez  
