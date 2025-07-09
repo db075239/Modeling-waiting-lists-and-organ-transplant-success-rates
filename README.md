@@ -59,5 +59,6 @@ Simulation results underscore the critical role of donor numbers in effectively 
 
 **Authors**: David Blazheski, Teodora Trajkova, Ivana Kerkez  
 **Institution**: Faculty of Electrical Engineering
+
 **Program**: I year MAG – Control systems and computer engineering  
 **Course**: Modeling Methods
